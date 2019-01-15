@@ -2,6 +2,8 @@ Amritnedu: My Dot Files for macbook@freshworks
 
 
 ``` 
+# install hub
+brew install hub
 
 # Change into home directory
 cd ~/
