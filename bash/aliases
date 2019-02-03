@@ -99,3 +99,7 @@ alias emacskill='emacsclient -e "(kill-emacs)"'
 alias play-new='sbt new playframework/play-java-seed.g8'
 alias play-drop='activator liquibaseDropAll'
 alias play-migrate='activator liquibaseUpdate'
+
+#Python
+alias python='/usr/local/bin/python3.7'
+alias pip='pip3'
